@@ -1,0 +1,16 @@
+Aula 1 - NLW Expert - Python
+
+- Criar ambiente virutal .venv
+- Criar o repositório git
+- Adicionar o Pylint com 'pip install pylint', criar o arquivo de configuração do Pylint 'pylint --generate-rcfile > .pylintrc' fazer as configurações necessárias para o projeto.
+- Adicionar o pré commit 'pip install 'pre-commit', criar o arquivo .pre-commit-config.yaml fazer a configuração, e depois rodar o comando 'pre-commit install'
+- Para funcionar o pre-commit é necessário que os arquivos estejam com o encode em UTF-6 principalmente o .pylintrc
+- Instalar o Flask 'pip install Flask'
+- Instalar a biblioteca python-barcode 'pip install python-barcode'
+- Instalar a biblioteca Pillow 'pip install Pillow'
+- Para criar o requirements.txt '.\.venv\Scripts\pip.exe freeze > requirements.txt' para atualizá-lo é o mesmo comando
+- Criado o arquivo run_raw.py
+
+Aula 2 - NLW Expert - Python
+
+- 
