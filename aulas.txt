@@ -1,5 +1,3 @@
-Aula 1 - NLW Expert - Python
-
 - Criar ambiente virutal .venv
 - Criar o repositório git
 - Adicionar o Pylint com 'pip install pylint', criar o arquivo de configuração do Pylint 'pylint --generate-rcfile > .pylintrc' fazer as configurações necessárias para o projeto.
@@ -9,8 +7,9 @@ Aula 1 - NLW Expert - Python
 - Instalar a biblioteca python-barcode 'pip install python-barcode'
 - Instalar a biblioteca Pillow 'pip install Pillow'
 - Para criar o requirements.txt '.\.venv\Scripts\pip.exe freeze > requirements.txt' para atualizá-lo é o mesmo comando
-- Criado o arquivo run_raw.py
-
-Aula 2 - NLW Expert - Python
-
-- 
+- Criado o arquivo run_raw.py 
+- Instalar a biblioteca Cerberus 'pip install Cerberus' está biblioteca irá auxiliar a fazer as validações do JSON que foi enviado pelo client.
+- Testes unitários com pytest 'pip install pytest' para fazer testes unitários da api.
+- Para criar arquivos de testes unitários é necessário criar arquivos com o final *_test.py, e dentro deles existir uma função que se inicia com
+test_*, após criar a função de teste unitário será possível executar a verificação com o pytest usando o comando 'pytest' para somente rodar o
+teste e o 'pytest -s -v' para mostrar as informações do teste.
