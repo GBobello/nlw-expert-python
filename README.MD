@@ -2,7 +2,7 @@
 
 Para rodar essa aplicação você deverá fazer um clone deste repositório.
 
-    git clone https://github.com/GBobello/nlw-ai.git
+    git clone https://github.com/GBobello/nlw-expert-python.git
 
 Após isso criar um virtual enviroment.
 
